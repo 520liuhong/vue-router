@@ -1,0 +1,54 @@
+*{margin: 0;padding: 0;}
+html{
+  /* position: relative; */
+	background: #0D253F;
+}
+.router_test{
+	width:100%;
+  min-width: 1080px;
+	color: #FFF;
+  text-align: center;
+}
+.bg{
+	background: #142E53;
+}
+.Top,.Footer{
+	width: 98%;
+	min-height: 100px;
+	height: auto;
+	margin: 0 auto;
+	background: #142E53;
+}
+.Top{
+	margin-top:20px;
+}
+.content{
+  width: 98%;
+  min-height: 550px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.contentLeft,.contentIndex,.contentRight{
+  float: left;
+  height: 100%;
+  background: #142E53;
+}
+.contentLeft{
+	width: 24%;
+}
+.contentIndex{
+	width: 50%;
+  margin-left: 15px;
+}
+.contentRight{
+	width: 24%;
+  float: right;
+}
+.Footer{
+  clear: left;
+  bottom: 0;
+  /* position:absolute;
+  bottom: 0; *//* footer固定在页面底部,随浏览器大小变化而变化. */
+}
