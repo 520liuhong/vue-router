@@ -1,7 +1,12 @@
 # blog-8-7
 #你好，我是一叶，更多详情请关注我的博客：www.yyzhiqiu.com ，或者我的博客园：https://www.cnblogs.com/yyzhiqiu/
+
+#本项目一共849KB，如果下载不了，请检查网络是否出错
+
 #这章讲的是vue-router的多页面显示和跳转，大家下载或者clone本项目后，记得下载依赖，运行cnpm install或者npm install（cnpm更快）
+
 #下载完毕后，执行 npm run dev 便可运行
+
 #如果帮助到你，请给我个star哟
 > A Vue.js project
 
